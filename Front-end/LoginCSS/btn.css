@@ -1,0 +1,71 @@
+.remove_btn{
+    color:white;
+    background-color: rgb(255, 67, 67);
+    font-weight: bold;
+    border:none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 35px;
+    outline: none;
+
+}
+.remove_btn:focus {
+    outline: none;
+  }
+
+.remove_btn:active{
+    opacity:0.5;
+  }
+
+  .remove_btn:hover{
+    opacity:0.8;
+  }
+
+  .add_btn{
+    color:white;
+    background-color: rgb(110, 231, 110);
+    font-weight: bold;
+    border:none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 35px;
+    width:60px;
+    outline: none;
+}
+
+.add_btn:active{
+    opacity:0.5;
+  }
+
+  .add_btn:hover{
+    opacity:0.8;
+  }
+
+  .add_btn:focus {
+    outline: none;
+  }
+
+
+  .pass_btn{
+    color:white;
+    background-color: rgb(110, 231, 110);
+    font-weight: bold;
+    border:none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 35px;
+    width:60px;
+    outline: none;
+}
+
+.pass_btn:active{
+    opacity:0.5;
+  }
+
+  .pass_btn:hover{
+    opacity:0.8;
+  }
+
+  .pass_btn:focus {
+    outline: none;
+  }
